@@ -1,0 +1,15 @@
+{
+  "name": "fb_oauth",
+  "version": "0.0.1",
+  "description": "simple facebook integration module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "facebook",
+    "auth"
+  ],
+  "author": "fritzprix (doowoong,lee)",
+  "license": "BSD-2-Clause"
+}
