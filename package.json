@@ -1,11 +1,19 @@
 {
   "name": "fb_oauth",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "simple facebook integration module",
   "main": "index.js",
-  "readme":"README.md",
+  "readme":"https://github.com/fritzprix/fb_oauth/blob/master/README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/fritzprix/fb_oauth"
+  },
+  "bugs": {
+    "email" : "innocentevil0914@gmail.com",
+    "url" : "https://github.com/fritzprix/fb_oauth/issues"
   },
   "keywords": [
     "facebook",
