@@ -1,5 +1,6 @@
 # fb_oauth
 [![npm version](https://badge.fury.io/js/fb_oauth.svg)](https://badge.fury.io/js/fb_oauth)
+[![NPM](https://nodei.co/npm/fb_oauth.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/fb_oauth/)
 ## simple node express middleware for facebook integration
     fb_oauth is ease of use middleware for express which implements facebook authentication
     you can simply add fb_oauth to express middleware pipeline as below.
